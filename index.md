@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hmm. I have a lot to think about and some pages to put together. Sorry to start with a "work in progress" page. I'll come back and edit
